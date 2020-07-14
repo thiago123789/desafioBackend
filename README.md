@@ -1,11 +1,12 @@
 Desafio para a vaga de Desenvolvedor Backend na toutbox
 
-Deve ser utilizado *dotnet core 3.1+*  para o desenvolvimento.
+*dotnet core 3.1+* deverá ser utilizado para o cumprimento do desafio.
+
 ## O Desafio
 
 O desafio consiste em criar uma api que faça calculo de frete usando o webservice dos correios, listando todos os serviços e preços para a região escolhida.
 
-O candidado deve ser capaz de ler e interpretar a documentação e escrever os métodos apropriados, a api deve ser documentada com swagger ou qualquer outra ferramenta de documentação apis preexistente. 
+O candidato deve ser capaz de ler e interpretar a documentação e escrever os métodos apropriados, a api deve ser documentada com swagger ou qualquer outra ferramenta de documentação apis preexistente. 
 
 Os dados da consulta e seu retorno devem ser persistidos em um banco de dados sql server / mysql utilizando o Entity Framework Core.
 
