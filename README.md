@@ -1,6 +1,6 @@
 Desafio para a vaga de Desenvolvedor Backend na toutbox
 
-**Dotnet core 3.1+** deverá ser utilizado para o cumprimento do desafio.
+**Dotnet core 3.1+** deverá ser utilizado para o desafio.
 
 ## O Desafio
 
@@ -17,7 +17,7 @@ Os dados da consulta e seu retorno devem ser persistidos em um banco de dados sq
 
 ## Documentação 
 
-- http://www.correios.com.br/para-voce/correios-de-a-a-z/pdf/calculador-remoto-de-precos-e-prazos/manual-de-implementacao-do-calculo-remoto-de-precos-e-prazos    
+- https://www.correios.com.br/enviar-e-receber/ferramentas/calculador-remoto-de-precos-e-prazos/pdf/manual-de-implementacao-do-calculo-remoto-de-precos-e-prazos
 - http://ws.correios.com.br/calculador/CalcPrecoPrazo.asmx
 
 ## Bônus
