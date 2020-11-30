@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>ToutBox.Challange.Core</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="DeliveryPrice\" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\ToutBox.Challenge.DataContracts\ToutBox.Challenge.DataContracts.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="CSharpFunctionalExtensions" Version="2.13.0" />
+    </ItemGroup>
+</Project>
